@@ -1,10 +1,5 @@
-# Venida Platform
-<p align="center">
-    <a href="https://github.com/SE-JE/venida"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=venida" alt="visitors"/>   
-</p>
-Venida Platform is a Boilerplate of your awesome application.
-With venida developing a technology backend so much faster without having to install the packages used, everything in venida is ready to use!
+# PHP Native Procedural CRUD
+This is my backup study-case a few years ago for php native example. Its just only backup repositories, i decided to public this repo cause some of my junior-classes maybe need this for study too. Keep spirit to learn everythings:)
 
 ------------
 
